@@ -1,0 +1,45 @@
+T: Mon May 23 19:10:08 2022 M: Log file opened
+T: Mon May 23 19:10:08 2022 M: User did not provide path to the files.
+T: Mon May 23 19:10:08 2022 M: Creating the test files for user...
+T: Mon May 23 19:12:07 2022 M: Test files are being prepared
+T: Mon May 23 19:12:07 2022 M: Re-run with correct arguments: For test 1: G:/Visual_Studio_Repos/BER/BER.exe test1_file1.bin test1_file2.bin For test 2: G:/Visual_Studio_Repos/BER/BER.exe test2_file1.bin test2_file2.bin For test 3 G:/Visual_Studio_Repos/BER/BER.exe test3_file1.bin test3_file2.bin   Paste it in CMD
+T: Mon May 23 19:12:07 2022 M: Log file closed
+T: Mon May 23 19:14:01 2022 M: Log file opened
+T: Mon May 23 19:14:01 2022 M: Processing test files
+T: Mon May 23 19:14:01 2022 M: Calculating BER...
+T: Mon May 23 19:14:01 2022 M: BER calculations are done
+T: Mon May 23 19:14:01 2022 M: Results are: 
+BER: 0
+Tot: 800
+Err: 0
+Calc time: 0 sec 
+
+T: Mon May 23 19:14:01 2022 M: Log file closed
+T: Mon May 23 19:14:32 2022 M: Log file opened
+T: Mon May 23 19:14:32 2022 M: Processing test files
+T: Mon May 23 19:14:32 2022 M: Calculating BER...
+T: Mon May 23 19:14:32 2022 M: BER calculations are done
+T: Mon May 23 19:14:32 2022 M: Results are: 
+BER: 0.125
+Tot: 800
+Err: 100
+Calc time: 0 sec 
+
+T: Mon May 23 19:14:32 2022 M: Log file closed
+T: Mon May 23 19:23:12 2022 M: Log file opened
+T: Mon May 23 19:23:12 2022 M: User did not provide path to the files.
+T: Mon May 23 19:23:12 2022 M: Creating the test files for user...
+T: Mon May 23 19:25:10 2022 M: Test files are being prepared
+T: Mon May 23 19:25:10 2022 M: Re-run with correct arguments: For test 1: G:/Visual_Studio_Repos/BER/BER.exe test1_file1.bin test1_file2.bin For test 2: G:/Visual_Studio_Repos/BER/BER.exe test2_file1.bin test2_file2.bin For test 3 G:/Visual_Studio_Repos/BER/BER.exe test3_file1.bin test3_file2.bin   Paste it in CMD
+T: Mon May 23 19:25:10 2022 M: Log file closed
+T: Mon May 23 19:25:53 2022 M: Log file opened
+T: Mon May 23 19:25:53 2022 M: Processing test files
+T: Mon May 23 19:25:53 2022 M: Calculating BER...
+T: Mon May 23 19:30:49 2022 M: BER calculations are done
+T: Mon May 23 19:30:49 2022 M: Results are: 
+BER: 0.25
+Tot: 3.2e+09
+Err: 8e+08
+Calc time: 296.268 sec 
+
+T: Mon May 23 19:30:49 2022 M: Log file closed
